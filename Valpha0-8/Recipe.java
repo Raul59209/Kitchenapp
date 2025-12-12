@@ -1,4 +1,4 @@
-package newer;
+package newer.Kitchenapp.Valpha0-8;
 
 import java.util.Scanner;
 
